@@ -1,6 +1,9 @@
 # awesome-data-project
 
 **Name**: Rahim Rasool
+
+**Institution:** Data Science Institute
+
 **School**: The university of Chicago
 
 **Project Ideas**:
